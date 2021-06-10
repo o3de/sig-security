@@ -11,7 +11,7 @@ Provide the basic services of APPSEC related to this project.
 
 Two concise lines explaining what this SIG does with bullet points of the major responsibilities
 
-- Responsibility 1
+- Responsibility
 
 **Goals**
 
