@@ -22,10 +22,11 @@ Below is a list of all prior completed meetings and related resources.
 
 ## Documentation Special Interest Group
 
-| No   | Date       | Time                    | Agenda | Media | Notes | Resources        |
-|------|------------|-------------------------|--------|-------|-------|------------------|
-| 0001 | 2021-06-00 | 0000 UTC                | n/a    | n/a   | Link  | Link             |
-| 002  | 2021-12-20 | 18:30 UTC / 10.30 AM PT | n/a    | n/a   | Link  | [Link](https://github.com/o3de/sig-network/blob/main/meetings/notes/sig-meeting-20211220.md) |
+| No   | Date       | Time                    | Agenda | Media | Notes | Resources                                                                                     |
+|------|------------|-------------------------|--------|-------|-------|-----------------------------------------------------------------------------------------------|
+| 0001 | 2021-06-00 | 0000 UTC                | n/a    | n/a   | Link  | Link                                                                                          |
+| 002  | 2021-12-20 | 18:30 UTC / 10.30 AM PT | n/a    | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20211220.md) |
+| 003  | 2022-01-06 | 18:30 UTC / 10.30 AM PT | n/a    | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220105.md) |
 
 # General Resources
 
