@@ -2,7 +2,7 @@
 
 SIG-security covers security reporting and initiatives for the Open 3D Engine project. 
 
-The [charter]() defines the scope and responsibilities of this SIG.
+The [charter](governance/SIG%20Security%20Charter.md) defines the scope and responsibilities of this SIG.
 
 ## Meetings
 
