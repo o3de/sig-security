@@ -1,6 +1,6 @@
 ## Meeting Details
 
-- **Date/Time:** February 16nd, 2022 @ 6:00pm UTC / 1:00pm ET / 10:00AM PT
+- **Date/Time:** March 2nd, 2022 @ 6:00pm UTC / 1:00pm ET / 10:00AM PT
 - **Location:** [Discord SIG-Security Voice Room](https://discord.gg/FDA3s4FBD2)
 - **Moderator:** [Deepak Sharma](https://github.com/dshmz)
 - **Note Taker** [Pip Potter](https://github.com/lmnr-pip)
