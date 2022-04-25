@@ -5,19 +5,19 @@ SIG-Security holds weekly triage on [Mondays](https://lists.o3de.org/g/o3de-cale
 
 The standard O3DE [triage guide](https://github.com/o3de/community/) should be used to cover process for accepting issues and setting standard labels.
 
-Very brief overview of process:
+Brief overview of process for maintainers:
 * Ensure issue can be accepted by SIG. 
     * Remove the `needs-triage` label and add `triage-accepted` label
     * Set a priority
-* Or assign a reviewer/maintainer to reproduce or get more information.
+* Or assign a reviewer/maintainer to reproduce, get more information or followup on issue.
 
-## Useful Links
-* Issues to triage for SIG: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fsecurity
-* Known security issues: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity
+## Triage Links
+* O3DE issues to triage for SIG: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fsecurity
+* O3DE known security issues: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity
 
 ## SIG Specific Guide
-* Ensure issues have label `kind\security` set on them so SIG security can find issues shared wit other SIGs.
-* SIG-Security only owns issues for code SIG-Security (see [charter] for areas of ownership) or actively intends to work on.
+* Ensure issues have the label `kind\security` set on them. SIG security uses this label to find issues assigned to other SIGs.
+* SIG-Security should only own issues for code areas SIG-Security maintains (see [charter](https://github.com/o3de/sig-security/blob/main/governance/SIG%20Security%20Charter.md) for areas of ownership) or actively intends to work on.
 
 ## Map CSVS Score to Issue Priority
 If an issue has a CVE/NVD score associated with it then use the following table to set priorities. This table maps
