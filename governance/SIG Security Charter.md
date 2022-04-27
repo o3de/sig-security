@@ -1,25 +1,25 @@
 # SIG Security Charter
 
 ## Overview of SIG
-SIG Security is a special interest group for O3DE code security that works as a central knowledge advisory group and  provides resources, consultation, reporting mechanisms  and information for security compliance, and security related issue resolution. This SIG also helps in keeping security patching up to date, and provide the basic services related to  APPSEC (Application Security) of O3DE.
+SIG Security is a special interest group for O3DE security. It serves as an advisory group for security related issues including compliance, security issue resolution, and security patching. The SIG is responsible for maintaining vulnerability reporting and response mechanisms for O3DE. In addition the SIG assists with other tasks that fall under the [Application Security (AppSec)](https://en.wikipedia.org/wiki/Application_security) umbrella of concern.
 
 ## Goals
 
 - To be set after rest of the charter is reviewed.
 
 ## Scope
--  Involves gathering information about security flaws. 
+-  Gather information about security flaws. 
 -  Identify potential security risks/gaps in Software.
 -  Define best practices for ensuring secure code.
 
 ## In scope
 
 - Triage and Acceptance of incoming security issues.
-- Creating mechanisms for intake of private security issues from any source.
+- Creation and maintenance of mechanisms for the secure intake of vulnerability issues, including any security reporting email lists for O3DE.
 - Management of GitHub security advisories for the O3DE repros.
-- Management of security reporting email and initial disclosure lists.
-- Provides mechanisms for reporting security issues manually
-- Provides tooling and automation for security issue identification and running campaigns to resolve identified security issues, including deprecation of software components.
+- Management of any security disclosure mechanisms including email lists.
+- Assists in the selection or development of tooling and automation for security issue identification.
+- Runs security campaigns to resolve identified security issues, including deprecation of software components.
 - Provide SPDX (Software Package Data Exchange) scanning tools to detect violations.
 
 ## Cross-cutting Processes
@@ -27,7 +27,7 @@ SIG Security is a special interest group for O3DE code security that works as a 
 - Disseminating information to other sigs for action / update/ fixing
 - Review and provide feedback on SIG presented features and implementation
 - Provide SPDX Licensing report violations to corresponding SIGs
-- Advise SIGs on security level of new libraries 
+- Advise SIGs on secure use of new libraries 
 - Provide web and docs team with links to campaign information stored in SIG's repository
 - Provide consultation for compliance automation scanning at periodic intervals and point release intervals for each potential issue and report violations to appropriate SIGs.
 - Advise Technical steering committee and Governing board of potential threats and unresolved issues.
@@ -39,7 +39,7 @@ SIG Security is a special interest group for O3DE code security that works as a 
 - Not responsible for implementing security or IP detection tools into automation or build chains, but may advise SIGs on where to implement.
 - Items that are optional or are not the responsibility of this SIG.
 
-**SIG Links and lists:**
+## SIG Links and lists
 
 - Joining this SIG - https://github.com/orgs/o3de/teams/sig-security
 - Slack/Discord - https://discord.com/channels/805939474655346758/816043899477950475 
@@ -47,27 +47,36 @@ SIG Security is a special interest group for O3DE code security that works as a 
 - Issues/PRs - https://github.com/o3de/sig-security/issues/
 - Meeting agenda & Notes - https://github.com/o3de/sig-security/issues/1 
 
-**Roles and Organization Management**
+## Roles and Organization Management
 
 SIG Security adheres to the standards for roles and organization management as specified by <sig-governance>. This SIG opts in to updates and modifications to <sig-governance>
 
-**Individual Contributors**
+### Individual Contributors
+
+Should provide steps to reproduce, links and examples for security flaws, discoveries, or potential issues. Should raise potential security issues through the [appropriate mechanisms](https://github.com/o3de/sig-security/blob/main/rfcs/rfc-sec-20220215-1.md)
 
 Additional information not found in the sig-governance related to contributors.
 
-**Maintainers**
+### Maintainers
+
+* Run issue triage when SIG-Chair(s) are unavailable. Must validate and verify that submitted issue or flaw exists and should be accepted by SIG.
+* Help the SIG stay on top of any security concerns:
+    * Engage with the [SIR team process](https://github.com/o3de/sig-security/blob/main/rfcs/rfc-sec-20220316-1.md)
+    * (Optionally) Monitor GitHub issues for any security impacting issues and raise with SIG.
+    * (Optionally) Monitor DIscord for any security impacting issues and raise with SIG.
+
 
 Additional information not found in the sig-governance related to contributors
 
-**Additional responsibilities of Chairs**
+### Additional responsibilities of Chairs
 
 Additional information not found in the sig-governance related to SIG Chairs
 
-**Subproject Creation**
+## Subproject Creation
 
 Additional information not found in the sig-governance related to subproject creation
 
-**Deviations from sig-governance**
+## Deviations from sig-governance
 
 Explicit Deviations from the sig-governance
  
