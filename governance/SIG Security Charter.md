@@ -1,90 +1,74 @@
 # SIG Security Charter
 
-This charter adheres to the Roles and Organization Management specified in <sig-governance>.
- Team information may be found in the <readme.md>
-
 ## Overview of SIG
-A central knowledge advisory group that provides resources and information security compliant, resolution and XYZ.
-
-All about security of systems and infrastructure resources. Security patching, resources and infra up to date.
-Provide the basic services of APPSEC related to this project.
-
-Two concise lines explaining what this SIG does with bullet points of the major responsibilities
-
-- Responsibility
+SIG Security is a special interest group for O3DE security. It serves as an advisory group for security related issues including compliance, security issue resolution, and security patching. The SIG is responsible for maintaining vulnerability reporting and response mechanisms for O3DE. In addition the SIG assists with other tasks that fall under the [Application Security (AppSec)](https://en.wikipedia.org/wiki/Application_security) umbrella of concern.
 
 ## Goals
 
-- Major goals that SIG seeks to generally achieve
+- To be set after rest of the charter is reviewed.
 
 ## Scope
-Involve gathering information about security flaws. 
-Identify potential security risks/gaps in softare.
-Define best practices for ensuring secure code
-
-- Generalized overall scope of work
+-  Gather information about security flaws. 
+-  Identify potential security risks/gaps in Software.
+-  Define best practices for ensuring secure code.
 
 ## In scope
-- Create tooling and campaigns to identify and resolve gaps, holes, and the depreciation of software
-- (campaigns) - org communication and bulletins - define build whats needed and track compliance for identified campaigns as well as update campaigns.
-- Provide security audit for each SIG during an open campaign until all SIGs are in compliance and campaign is closed.
 
-- Update and publish overall security practices and guidelines.
-- Monitor security bulletins for related technologies that may affect software
-- Publish versions of library, tool, and code versions that are compliant.
-- Define and maintain tools to identify and update campaigns and issues
-- Define and disseminate dependency software/code for compliance reasons.
-- Create and maintain mechanism and guidelines to raise concerns for security issues.
-- Create and maintain tools to do version checking to ensure libraries are in compliance.
-- Create and maintain SPDX scanning tools to detect violations
-- Provide and report on penetration testing on point release software before general availability.
-- ***Look into threat modelling and compliance***
-
-- Items that are the core responsibilities of SIG
+- Triage and Acceptance of incoming security issues.
+- Creation and maintenance of mechanisms for the secure intake of vulnerability issues, including any security reporting email lists for O3DE.
+- Management of GitHub security advisories for the O3DE repros.
+- Management of any security disclosure mechanisms including email lists.
+- Assists in the selection or development of tooling and automation for security issue identification.
+- Runs security campaigns to resolve identified security issues, including deprecation of software components.
+- Provide SPDX (Software Package Data Exchange) scanning tools to detect violations.
 
 ## Cross-cutting Processes
 
 - Disseminating information to other sigs for action / update/ fixing
+- Review and provide feedback on SIG presented features and implementation
 - Provide SPDX Licensing report violations to corresponding SIGs
-- Advise SIGs on security level of new libraries and add to published compliance list
+- Advise SIGs on secure use of new libraries 
 - Provide web and docs team with links to campaign information stored in SIG's repository
-
-- Team must provide compliance automation scanning at periodic intervals and point release intervals for each potential issue and report violations to appropriate SIGs.
-
-- Advise Technical steering committee and Governing board of potential theats and unresolved issues.
-
+- Provide consultation for compliance automation scanning at periodic intervals and point release intervals for each potential issue and report violations to appropriate SIGs.
+- Advise Technical steering committee and Governing board of potential threats and unresolved issues.
 - Items that span or require other SIGs or groups and how it relates to this SIG’s responsibilities
 
 ## Out of Scope
 - Not responsible for fixing any detected or reported security issues.
-- Not responsible for enforcing or acting upon any legal compliance issues
+- Not responsible for enforcing or acting upon any legal compliance issues.
 - Not responsible for implementing security or IP detection tools into automation or build chains, but may advise SIGs on where to implement.
-
 - Items that are optional or are not the responsibility of this SIG.
 
-## SIG Links and lists:
+## SIG Links and lists
 
-- Joining this SIG
-- Slack/Discord
-- Mailing list
-- Issues/PRs
-- Meeting agenda & Notes
+- Joining this SIG - https://github.com/orgs/o3de/teams/sig-security
+- Slack/Discord - https://discord.com/channels/805939474655346758/816043899477950475 
+- Mailing list - https://lists.o3de.org/g/sig-security
+- Issues/PRs - https://github.com/o3de/sig-security/issues/
+- Meeting agenda & Notes - https://github.com/o3de/sig-security/issues/1 
 
 ## Roles and Organization Management
 
-SIG Docs adheres to the standards for roles and organization management as specified by <sig-governance>. This SIG opts in to updates and modifications to <sig-governance>
+SIG Security adheres to the standards for roles and organization management as specified by <sig-governance>. This SIG opts in to updates and modifications to <sig-governance>
 
-## Individual Contributors
-Must provide links and examples to security flaws, discoveries, or potential issues.
+### Individual Contributors
+
+Should provide steps to reproduce, links and examples for security flaws, discoveries, or potential issues. Should raise potential security issues through the [appropriate mechanisms](https://github.com/o3de/sig-security/blob/main/rfcs/rfc-sec-20220215-1.md)
 
 Additional information not found in the sig-governance related to contributors.
 
-## Maintainers
-Must validate and verify that submitted issue or flaw exists and should be accepted into practices.
+### Maintainers
+
+* Run issue triage when SIG-Chair(s) are unavailable. Must validate and verify that submitted issue or flaw exists and should be accepted by SIG.
+* Help the SIG stay on top of any security concerns:
+    * Engage with the [SIR team process](https://github.com/o3de/sig-security/blob/main/rfcs/rfc-sec-20220316-1.md)
+    * (Optionally) Monitor GitHub issues for any security impacting issues and raise with SIG.
+    * (Optionally) Monitor DIscord for any security impacting issues and raise with SIG.
+
 
 Additional information not found in the sig-governance related to contributors
 
-## Additional responsibilities of Chairs
+### Additional responsibilities of Chairs
 
 Additional information not found in the sig-governance related to SIG Chairs
 
@@ -95,3 +79,4 @@ Additional information not found in the sig-governance related to subproject cre
 ## Deviations from sig-governance
 
 Explicit Deviations from the sig-governance
+ 
