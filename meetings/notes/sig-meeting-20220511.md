@@ -5,11 +5,12 @@
 - **Moderator:** [Pip Potter](https://github.com/lmnr-pip)
 - **Note Taker** [Mike Chang](https://github.com/amzn-changml)
 
-[Agenda](https://github.com/o3de/sig-security/issues/34)
+[Agenda](https://github.com/o3de/sig-security/issues/35)
 
 ## Meeting Agenda
 * Review open security issues
-* Followup on action items and open agenda topics
+* Charter update
+* Discuss plans for LFX dashboard review post May 12th release.
 
 ### Agenda Discussion
 
