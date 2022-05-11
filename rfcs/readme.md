@@ -17,4 +17,4 @@ Security related RFC naming follows the pattern of:
 | RFC                                         | Month | Summary                    |
 |---------------------------------------------|-------|----------------------------|
 | [rfc-sec-20220215-1](rfc-sec-20220215-1.md) | Feb   | SIG-Security Reporting RFC |
-
+| [rfc-sec-20220316-1](rfc-sec-20220316-1.md) | Mar   | SIG-Security Response RFC  |
