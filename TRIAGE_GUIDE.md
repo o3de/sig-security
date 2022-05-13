@@ -23,12 +23,13 @@ Brief overview of process for maintainers:
 If an issue has a CVE/NVD score associated with it then use the following table to set priorities. This table maps
 [NVS CSVS V3 scores](https://nvd.nist.gov/vuln-metrics/cvss) to O3DE issue priorities.
 
-| CVE/NVD Score Range | CVSS 3.0 Issue Priority | O3DE Issue Priority |
-|---------------------|-------------------------|---------------------|
-| 9.0 - 10.0          | Blocker                 | Minor               |
-| 7.0 - 8.9           | Critical                | Major               |
-| 4.0 - 6.9           | Major                   | Critical            |
-| 0.1 - 3.9           | Minor                   | Blocker             |
+| CVSS/NVD Range | CVSS 3.0 Issue Priority | O3DE Issue Priority                                                 |
+|----------------|-------------------------|---------------------------------------------------------------------|
+| 9.0 - 10.0     | Critical                | [Blocker](https://github.com/o3de/o3de/labels/priority%2Fblocker)   |
+| 7.0 - 8.9      | High                    | [Critical](https://github.com/o3de/o3de/labels/priority%2Fcritical) |
+| 4.0 - 6.9      | Medium                  | [Major](https://github.com/o3de/o3de/labels/priority%2Fmajor)       |
+| 0.1 - 3.9      | Low                     | [Minor](https://github.com/o3de/o3de/labels/priority%2Fminor)       |
+| 0.0            | None                    | No Priority                                                         |
 
 The O3DE issue priority is only a guide and where we should start the discussion of the issue with the SIG that owns the code.
 The owning SIG should work out if the vulnerability is applicable to O3DE and can propose change of issue priority.
