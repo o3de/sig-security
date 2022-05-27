@@ -14,52 +14,37 @@
 
 ### Agenda Discussion
 
-(Note: Discussion members are denoted by Discord user names)
+* No Open issues to review
+* No security related issues from release 
+* Have only two open dependabot issues (both moderate and for sig-testing)
+    - @Allisaurus will open issues for SIGs for these
 
-* Open security issues - None discussed
+* Next meeting need to review open kind/security issues to see if we need to escalate/engage with owning SIGs now release is out of the way.
 
-* (Seapip) SIG-security should work with TSC/all SIGs to set response SLAs
-  - (DWeiss) Escalation paths for each SIG? We won't be able to enforce SLAs without them
-  - (Seapip) We have some paths using triage methods (within 3 business days)
-  - (Brian) We can apply labels to the ticket for triage and notify SIG-Chairs
-  - (Seapip) Contact 1 is to the SIG, Contact 2 to the SIG Chair, Contact 3 to the TSC
-  - (Seapip) We do need some success/exit critira
-  - (Seapip) Can be proposed to the SIG of SIGs monthly meetings
-  - (Seapip) 3 business days to triage, few weeks to resolve critical/highs
-  - (Seapip) [Action item] - Create the proposal with SLAs to present to SIG of SIGs (in conjunction with Finchy @ SIG-Operations)
+* LFX Security bot review, post 2205 release
+    - has not updated 13 days post 2205 delivery
+    - need to find contact with LF / LFX teams to understand issues
 
-* (Seapip) The charter PR has gotten enough time for comments
-  - (Mike) The changes have been merged.
-
-* (Seapip) Followup for the contributor who filed NVD issues
-  - (Seapip) Need to contact the contributor (Maybe through another Huawei employee?)
-  - (Seapip) The goal is to find the tooling used to scan for NVD to be more proactive
-
-* (Seapip) [Action item (continued)] - Contact LF on the LFX bot O3DE expectations,trainings (with Royal or Nicole Huesman)
-
-* (Seapip) [Action item] - Issue response gameday meeting to run through the steps of triaging and notifying on an issue
-
-* (Seapip) [Action item] - Fix inverted priority guide
+* TSC meeting / SIGs taking over triage 
+    * TSC is looking for new owners for the cross SIG issue triage process
+    * One item discussed is to use automation to escalate blockers/criticals that aren't being triaged: https://github.com/o3de/sig-operations/issues/38
 
 ## Open Discussion Items
 
 * (Mike) The pillow issue ended up becoming a blocker for release and needed exceptions to get into the release
-  - (Mike) We should to establish timelines and gather learnings where a critical security vulerability was left for months
+  - (Mike) We should to establish timelines and gather learnings where a critical security vulnerability was left for months
   - (Seapip) Yes, we should at least get some backstory about the process and timelines
-  - (Seapip) [Action item] - Do a quick investigation on the timeline of Pillow remeditaion for documentation, for next SIG meeting
+  - (Seapip) [Action item] - Do a quick investigation on the timeline of Pillow remediation for documentation, for next SIG meeting
 
 * (Seapip) Looking for dangling ownership and dealing with them with SIGs
   - (Seapip) Certain gems, including using 3p services can be broken out as external repos, to be owned by SIGs or partners
   
 ## Action items:
-* Create the proposal with SLAs to present to SIG of SIGs (in conjunction with Finchy @ SIG-Operations) (Pip)
-* Reach out to contributor who filed round of NVD issues to see if they want to contribute to SIG (Pip)
-* Review LFX security dashboard post release (post May 12th) (All members for next meeting, driven by Pip)
-* LFX Security Bot Questions (Pip)
-    * See if critical bug has been patched 
-    * Reach out to see how often LFX security runs and does it autoclose issues 
-    * Followup on trainings, O3DE expectations
-    * Contact Royal O'Brian or Nicole Huesman
-* Issue response gameday meeting to run through the steps of triaging and notifying on an issue (Setup meeting for all memebers, driven by Pip)
-* Fix inverted priority guide (Pip)
-* Do a quick investigation on the timeline of Pillow remeditaion for documentation, for next SIG meeting (Mike)
+* _IN PROGRESS_: Create the proposal with SLAs to present to SIG of SIGs (in conjunction with Finchy @ SIG-Operations) (Pip)
+* _IN PROGRESS_: Reach out to contributor who filed round of NVD issues to see if they want to contribute to SIG (Pip)
+* _TODO_: Issue response gameday meeting to run through the steps of triaging and notifying on an issue (Setup meeting for all memebers, driven by Pip)
+* _TODO_: Need to follow up with LF/LFX about why scan did not change anything (@dshmz)
+
+* _DONE_: Review LFX security dashboard post release (post May 12th) (All members for next meeting, driven by Pip)
+* _DONE_: Fix inverted priority guide (Pip)
+* _DONE_: Do a quick investigation on the timeline of Pillow remeditaion for documentation, for next SIG meeting (Mike)
