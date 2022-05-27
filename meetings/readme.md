@@ -24,17 +24,18 @@ Below is a list of all prior completed meetings and related resources.
 
 ## Documentation Special Interest Group
 
-| No   | Date       | Time                    | Agenda                                               | Media | Notes | Resources                                                                                     |
-|------|------------|-------------------------|------------------------------------------------------|-------|-------|-----------------------------------------------------------------------------------------------|
-| 0001 | 2021-06-00 | 0000 UTC                | n/a                                                  | n/a   | Link  | Link                                                                                          |
-| 002  | 2021-12-20 | 18:30 UTC / 10.30 AM PT | n/a                                                  | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20211220.md) |
-| 003  | 2022-01-06 | 18:30 UTC / 10.30 AM PT | n/a                                                  | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220105.md) |
-| 004  | 2022-02-02 | 18:30 UTC / 10.30 AM PT | [17](https://github.com/o3de/sig-security/issues/17) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220202.md) |
-| 005  | 2022-03-02 | 18:30 UTC / 10.30 AM PT | [21](https://github.com/o3de/sig-security/issues/21) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220302.md) |
-| 006  | 2022-03-06 | 18:30 UTC / 10.30 AM PT | [21](https://github.com/o3de/sig-security/issues/24) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220316.md) |
-| 007  | 2022-04-13 | 18:30 UTC / 10.30 AM PT | [21](https://github.com/o3de/sig-security/issues/30) | n/a   | Link  | Link                                                                                          |
-| 008  | 2022-04-17 | 18:30 UTC / 10.30 AM PT | [21](https://github.com/o3de/sig-security/issues/34) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220427.md) |
-
+| No  | Date       | Time                    | Agenda                                                 | Media | Notes | Resources                                                                                     |
+|-----|------------|-------------------------|--------------------------------------------------------|-------|-------|-----------------------------------------------------------------------------------------------|
+| 001 | 2021-06-00 | 0000 UTC                | n/a                                                    | n/a   | Link  | Link                                                                                          |
+| 002 | 2021-12-20 | 18:30 UTC / 10.30 AM PT | n/a                                                    | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20211220.md) |
+| 003 | 2022-01-06 | 18:30 UTC / 10.30 AM PT | n/a                                                    | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220105.md) |
+| 004 | 2022-02-02 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/17) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220202.md) |
+| 005 | 2022-03-02 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/21) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220302.md) |
+| 006 | 2022-03-16 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/24) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220316.md) |
+| 007 | 2022-03-30 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/27) | n/a   | Link  | Link                                                                                          |
+| 008 | 2022-04-13 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/30) | n/a   | Link  | Link                                                                                          |
+| 009 | 2022-04-27 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/34) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220427.md) |
+| 010 | 2022-05-11 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/35) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220511.md) |
 
 # General Resources
 
