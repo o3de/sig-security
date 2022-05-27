@@ -36,6 +36,7 @@ Below is a list of all prior completed meetings and related resources.
 | 008 | 2022-04-13 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/30) | n/a   | Link  | Link                                                                                          |
 | 009 | 2022-04-27 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/34) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220427.md) |
 | 010 | 2022-05-11 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/35) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220511.md) |
+| 011 | 2022-05-25 | 18:30 UTC / 10.30 AM PT | [Link](https://github.com/o3de/sig-security/issues/36) | n/a   | Link  | [Link](https://github.com/o3de/sig-security/blob/main/meetings/notes/sig-meeting-20220525.md) |
 
 # General Resources
 

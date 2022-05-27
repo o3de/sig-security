@@ -1,11 +1,11 @@
 ## Meeting Details
 
-- **Date/Time:** May 11th, 2022 @ 6:00pm UTC / 1:00pm ET / 10:00AM PT
+- **Date/Time:** May 25th, 2022 @ 6:00pm UTC / 1:00pm ET / 10:00AM PT
 - **Location:** [Discord SIG-Security Voice Room](https://discord.gg/FDA3s4FBD2)
-- **Moderator:** [Pip Potter](https://github.com/lmnr-pip)
-- **Note Taker** [Mike Chang](https://github.com/amzn-changml)
+- **Moderator:** [Deepak Sharma](https://github.com/dshmz)
+- **Note Taker** [Pip Potter](https://github.com/lmnr-pip)
 
-[Agenda](https://github.com/o3de/sig-security/issues/35)
+[Agenda](https://github.com/o3de/sig-security/issues/36)
 
 ## Meeting Agenda
 * Review open security issues
