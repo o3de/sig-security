@@ -14,6 +14,8 @@ Brief overview of process for maintainers:
 ## Triage Links
 * O3DE issues to triage for SIG: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Aneeds-triage+label%3Asig%2Fsecurity
 * O3DE known security issues: https://github.com/o3de/o3de/issues?q=is%3Aissue+is%3Aopen+label%3Akind%2Fsecurity
+* Dependabot alerts (link only accessible to SIG-Security maintainers): https://github.com/o3de/o3de/security/dependabot
+    * Create issues for new alerts
 
 ## SIG Specific Guide
 * Ensure issues have the label `kind\security` set on them. SIG security uses this label to find issues assigned to other SIGs.
