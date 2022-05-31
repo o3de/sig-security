@@ -14,7 +14,7 @@ O3DE cannot work without the help and input from as many of its community member
 
 ## Agenda Items
 
-You can find a link to the proposed agenda for the next meeting as [an issue on Github](https://github.com/o3de/sig-security/issues?q=is%3Aissue+is%3Aopen+label%3Amtg-agenda) under the O3DE [SIG-Security](https://github.com/o3de/sig-security/) repro.
+You can find a link to the proposed agenda for the next meeting as [an issue on GitHub](https://github.com/o3de/sig-security/issues?q=is%3Aissue+is%3Aopen+label%3Amtg-agenda) under the O3DE [SIG-Security](https://github.com/o3de/sig-security/) repro.
 
 Please feel free to propose any of your topics, thoughts, or areas you feel are important to discuss.
 
